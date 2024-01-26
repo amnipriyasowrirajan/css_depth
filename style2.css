@@ -1,0 +1,21 @@
+div {
+  /* border-style: solid; */
+  /* border: dashed 10px red; */
+  /* double =>top ,solid=> left and right, dashed => bottom: ,ridge=>left */
+  /* border-style: double solid dashed ridge;
+  border-width: 5px;
+  border-color: lawngreen; */
+  /* border-bottom: solid 5px pink; */
+  border-right: solid 5px pink;
+  height: 200px;
+  width: 200px;
+}
+
+img {
+  /* border-style: unset; */
+  border-style: ridge;
+  border-width: 5px;
+  border-color: rgba(60, 17, 48, 0.849);
+  /* border-radius: 50%; */
+  border-radius: 10px;
+}
